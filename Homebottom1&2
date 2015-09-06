@@ -1,0 +1,23 @@
+
+#ez-home-bottom-1 {
+	background: #C3EDB4;
+	border-top: 4px solid #FF7045;
+	border-left: 4px solid #FF7045;
+	-webkit-border-radius: 10px 0px 10px 0px;
+	border-radius: 10px 0px 10px 0px;
+
+	margin: 0px 2px 0px 0px;
+	padding: 0px 2px 0px 5px;
+}
+
+
+#ez-home-bottom-2 {
+	background: #C3EDB4;
+	border-bottom: 4px solid #FF7045;
+	border-right: 4px solid #FF7045;
+	-webkit-border-radius: 10px 0px 10px 0px;
+	border-radius: 10px 0px 10px 0px;
+
+	margin: 0px 0px 0px 5px;
+	padding: 0px 2px 0px 20px;
+}
